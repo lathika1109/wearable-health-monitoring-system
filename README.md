@@ -2,6 +2,7 @@
 
 ## Overview
 The Wearable Health Monitoring System is an embedded systems project developed using the STM32 Nucleo-64 microcontroller. The system continuously monitors vital health parameters such as heart rate, ECG signals, and body temperature in real time. The measured values are displayed on a 16×2 LCD, providing a compact and low-power healthcare monitoring solution.
+<img width="714" height="476" alt="image" src="https://github.com/user-attachments/assets/bf8d50b0-cab9-4a3b-8c6f-dc7a56224fc1" />
 
 ## Features
 - Real-time heart rate monitoring
